@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body {
+  background-color: #e7e7eb;
+  width:50%;
+  margin:0 auto;
+}
+
+.link {
+  color: #eb6101;
+}
+
+.sns-ul {
+  color: #165e83;
+  list-style-type: none;
+}
+
+.midashi {
+  font-size: 150%;
+  list-style-type: none;
+}
