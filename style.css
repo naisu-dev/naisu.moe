@@ -2,9 +2,17 @@
 
 body {
   background-color: #e7e7eb;
-  width:50%;
-  margin:0 auto;
+  width: 50%;
+  margin: 0 auto;
   font-family: 'Zen Kaku Gothic New', sans-serif;
+}
+
+@media screen and (max-width: 767px) {
+  body {
+    width: 100%;
+    float: left !important;
+    padding: 10px !important;
+  }
 }
 
 .mainlink {
