@@ -1,3 +1,3 @@
-if (location.href == "https://www.naisuapp.net/index.html") {
-  document.location = "https://www.naisuapp.net";
+if (location.href == "https://naisuapp.net/index.html") {
+  document.location = "https://naisuapp.net";
 }
