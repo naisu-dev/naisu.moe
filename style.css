@@ -3,3 +3,15 @@
   font-weight: 400;
   font-style: normal;
 }
+
+html {
+  backgroud-color: #000000 !important;
+}
+
+#noline {
+  border-width: 0em;
+}
+
+#tmbk {
+  max-width: 50%;
+}
